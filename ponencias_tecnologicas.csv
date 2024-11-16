@@ -1,2 +1,4 @@
-Cedula,Nombre,Certificado,Fecha
-V-12345678,Prueba,Ponencias Tecnologicas,16/11/24
+Cedula,Nombre,Certificado,Fecha,ID
+V-12345678,Prueba,Ponencias Tecnologicas,16/11/24,ABC123ABC
+V-12345678,Prueba,Otro Certificado,17/11/24,DEF456DEF
+V-98765432,Otra Persona,Ponencias Tecnologicas,16/11/24,GHI789GHI
