@@ -1,4 +1,4 @@
-Cedula,Nombre,Certificado,Ponencia,Fecha,ID
-V-12345678,Prueba,Ponencias Tecnologicas,"Explorando el mundo de los Robots, Introducción a la Robótica<p>Paradigmas de la Programación, Software Libre y la Soberanía Tecnológica<p>Psicología del Color y la Relación con el Diseño de Interfaz de Usuario",16/11/24,UCS4625KFS
-V-12345678,Prueba,Otro Certificado,"Explorando el mundo de los Robots, Introducción a la Robótica<p>Paradigmas de la Programación, Software Libre y la Soberanía Tecnológica<p>Psicología del Color y la Relación con el Diseño de Interfaz de Usuario",17/11/24,TSL8936HFZ
-V-98765432,Otra Persona,Ponencias Tecnologicas,"Explorando el mundo de los Robots, Introducción a la Robótica<p>Paradigmas de la Programación, Software Libre y la Soberanía Tecnológica<p>Psicología del Color y la Relación con el Diseño de Interfaz de Usuario",16/11/24,DG8559ZC
+Cedula,Nombre,Certificado,Fecha,ID,Ponencia
+V-12345678,Prueba,Ponencias Tecnologicas,16/11/24,UCS4625KFS,"Explorando el mundo de los Robots, Introducción a la Robótica<p>Paradigmas de la Programación, Software Libre y la Soberanía Tecnológica<p>Psicología del Color y la Relación con el Diseño de Interfaz de Usuario"
+V-12345678,Prueba,Otro Certificado,17/11/24,TSL8936HFZ,"Explorando el mundo de los Robots, Introducción a la Robótica<p>Paradigmas de la Programación, Software Libre y la Soberanía Tecnológica<p>Psicología del Color y la Relación con el Diseño de Interfaz de Usuario"
+V-98765432,Otra Persona,Ponencias Tecnologicas,16/11/24,DG8559ZC,"Explorando el mundo de los Robots, Introducción a la Robótica<p>Paradigmas de la Programación, Software Libre y la Soberanía Tecnológica<p>Psicología del Color y la Relación con el Diseño de Interfaz de Usuarioo"
