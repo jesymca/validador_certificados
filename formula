@@ -7,3 +7,5 @@ MAYUSC(CARACTER(ALEATORIO.ENTRE(65;90)));
 MAYUSC(CARACTER(ALEATORIO.ENTRE(65;90)));
 MAYUSC(CARACTER(ALEATORIO.ENTRE(65;90)))
 )
+
+=CONCATENAR("https://jornaltecuptpc.blogspot.com/p/validador-de-certificados.html?ID=";CELDA)
